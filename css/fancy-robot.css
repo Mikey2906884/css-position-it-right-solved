@@ -1,7 +1,7 @@
 .robot-container {
   position: relative;
+  top: 150px;
   margin: auto;
-  top: 100px;
 }
 
 .robot-face-shape {
@@ -59,7 +59,7 @@
   position: relative;
   left: 400px;
   bottom: 50px;
-  width: 81px;
+  width: 12%;
   box-sizing: content-box;
   border-width: 75px 27px 0;
   border-style: solid;
@@ -71,7 +71,7 @@
   position: absolute;
   height: 0;
   width: 0;
-  top: -127px;
+  top: -126.5px;
   left: -27px;
   border-width: 0 67.5px 52.5px;
   border-style: solid;
@@ -83,7 +83,7 @@
   z-index: -1;
   bottom: 300px;
   right: 102px;
-  width: 80px;
+  width: 5rem;
   height: 80px;
   background-color: gold;
   border-radius: 50%;
